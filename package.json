@@ -1,0 +1,18 @@
+{
+  "name": "makemehapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mmh_hello_hapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "h2o2": "^6.0.1",
+    "handlebars": "^4.0.11",
+    "hapi": "^16.6.2",
+    "inert": "^4.2.1",
+    "vision": "^4.1.1"
+  }
+}
